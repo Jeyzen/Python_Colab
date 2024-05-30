@@ -1,2 +1,2 @@
 # Python_Colab
-Scripts Automations
+Automations Scripts for `Google Colaboratory`
